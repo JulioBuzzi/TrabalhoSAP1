@@ -1,14 +1,15 @@
-TRABALHO DE SAP-1 REALIZADO POR 5 ALUNOS DE CIÊNCIA DA COMPUTAÇÃO DA PUC MINAS NA MATÉRIA DE ARQUITETURA DE COMPUTADORES I 2024.2 
+# Projeto SAP-1
 
-Integrantes: 
+Trabalho realizado para a disciplina de **Arquitetura de Computadores I (2024.2)** no curso de **Ciência da Computação** da **PUC Minas**.
 
-Filipe Lorenzato Cardoso Rodrigues
+## Descrição
 
-Filipi Pereira de Mesquita Faria
+Este projeto tem como objetivo a simulação e compreensão do funcionamento da arquitetura **SAP-1 (Simple As Possible)**, abordando conceitos fundamentais de arquitetura de computadores.
 
-Gabryelle Franco Xavier
+## Integrantes
 
-Júlio Cesar Thurow Buzzi
-
-Vitor Tiradentes Sousa e Silva
-
+- **Filipe Lorenzato Cardoso Rodrigues**  
+- **Filipi Pereira de Mesquita Faria**  
+- **Gabryelle Franco Xavier**  
+- **Júlio Cesar Thurow Buzzi**  
+- **Vitor Tiradentes Sousa e Silva**
